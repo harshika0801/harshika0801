@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshika0801
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend dev.
-- 📫 How to reach me hatshikawankhade@gmail.com
+- 📫 How to reach me harshikawankhade@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
